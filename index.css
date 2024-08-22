@@ -1,0 +1,40 @@
+.google-homepage {
+    text-align: center;
+}
+
+.search-container {
+    background-color: rgba(231, 225, 225, 0.479);
+    padding: 1%;
+}
+.search {
+    width: 400px;
+}
+
+.links-mail {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.links-left {
+    display: flex;
+    flex-direction: column;
+    background-color:  rgba(114, 224, 224, 0.521);
+    text-align: center;
+    padding: 1% 200px ;
+   
+ 
+
+}
+.links-right {
+    display: flex;
+    flex-direction: column;
+    background-color:  rgba(48, 172, 172, 0.521);
+    text-align: center;
+    padding: 1% 80px;
+}
+.mail {
+    background-color: rgba(3, 105, 105, 0.384);
+    padding: 0% 200px;
+}
+
